@@ -1,0 +1,30 @@
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Mono.Security.dll
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Npgsql.dll
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FluxoCaixa.csprojAssemblyReference.cache
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cadastro.resources
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FluxoCaixa.csproj.GenerateResource.cache
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FluxoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FluxoCaixa.csproj.CopyComplete
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Histórico.resources
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.util.update.resources
+C:\Users\mateu\Desktop\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete.resources
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FluxoCaixa.csprojAssemblyReference.cache
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Cadastro.resources
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Delete.resources
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Histórico.resources
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.util.update.resources
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FluxoCaixa.csproj.GenerateResource.cache
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FluxoCaixa.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\FluxoCaixa.csproj.CopyComplete
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\mateu\Documents\Arqs Mateus\FATEC&SENAI\ADS 2ºSEM\LP\Trabalhos LP\LP 2º BIM\CRUD\CRUD_Games\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

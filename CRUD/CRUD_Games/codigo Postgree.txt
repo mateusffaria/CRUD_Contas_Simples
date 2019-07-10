@@ -1,0 +1,1 @@
+CREATE TABLE lancamento( id serial, descricaovarchar(100), entradasaida varchar(100), valor real); 
